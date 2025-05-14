@@ -1,0 +1,7 @@
+| Entrée `n` | Sortie             |
+| ---------- | ------------------ |
+| `0`        | `Nul` `Petit`   |
+| `1`        | `Petit`            |
+| `4`        | `Moyen` `Grand` |
+| `10`       | `Grand`            |
+| `-5`       | `Grand`            |
